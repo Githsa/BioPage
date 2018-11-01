@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+       <meta charset="UTF-8">
+       <title>Bio Page Practice </title>
+       <link rel="stylesheet" type="text/css" href="css\Fourthstyle.css">
+</head>
+<body>
+   <header>
+       <div class= "Name">Your Name</div>
+       <div class= "About">About</div>
+       <div class= "Portfolio">Portfolio</div>
+       <div class= "Contact">Contact</div>
+   </header>
+        <div id="line">
+        </div>
+           <div id="content">
+               <div id="aboutMe">
+                   <h1>About Me</h1>
+                    <hr id="aboutMeLine">
+                    <p>
+                       <img src="Pics\Star Wars.png" >
+                       I am a cowboy, I like to wear my cowboy hat and have my pistols. I am also a movie star, and they can also call me Dirty Harry sometimes.
+                       </p>
+                     
+                       <p>
+                       After making a lot of cowboy movies, I made several Dirty Harry movies as Police office Harry Callahan.
+                       </p>
+
+                       <p>
+                       Later other movies came after that like "Magnum Force", "Escape from Alcatraz", 
+                        and Many More!. All great movies, and any other good actor with this type of movies are John Wayne and Tom Cruise.
+                        </p>
+
+                          
+               </div>
+
+               <div id="connectMe">
+                  <h2>Connect with Me</h2>
+                    <hr id="connectMeLine">
+                      <img src="C:\Users\samels\Pictures\Saved Pictures\GitHub.png" style="float:left; width: 20%; margin-right: 1%; margin-bottom: 0.5em; height:30%;">
+                      <img src="C:\Users\samels\Pictures\Saved Pictures\in.png" style="float:left; width: 20%; margin-right: 1%; margin-bottom: 0.5em; height:30%;">
+                      <img src="C:\Users\samels\Pictures\Saved Pictures\stackoverflow.png" style="float:left; width: 20%; margin-right: 1%; margin-bottom: 0.5em; height:30%;">
+               </div>
+           </div>
+        <div id="bottomLine">
+        </div>
+    <div id="footer">
+        &copy; Copyright2018 Sandro Altamirano
+    </div>    
+           
+
+
+</body>
+</html>
