@@ -1,0 +1,169 @@
+
+header {
+	background-color: #ffffff;
+	width:960px;
+	height:58px;
+	
+}
+
+.Name {
+
+	padding:20px;
+	margin-left: 120px;
+	text-align: center;
+	background-color: #4aaaa5;
+    color: #ffffff;
+	width:100px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+    float: left;
+
+}
+
+.About {
+
+	
+	padding-top: 20px;
+	padding-right: 2.5px;
+	margin-left: 400px;
+	text-align: center;
+	color:#a3a3c2;
+	width:70px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	float: left;
+
+
+}
+
+.Portfolio {
+
+	
+	padding-top: 20px;
+	padding-left: 2.5px;
+	padding-right: 2.5px;
+	float:left;
+	text-align: center;
+	color:#a3a3c2;
+	width:70px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+
+
+}
+
+.Contact {
+
+	
+	padding-top: 20px;
+	padding-left: 2.5px;
+	float: left;
+	text-align: center;
+	color:#a3a3c2;
+	width:70px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+
+
+}
+
+#line {
+
+	background-color: #cccccc;
+	height:2px;
+}
+
+#content {
+	background-color: #D6DBDF;
+	width:1024px;
+	height:430px;
+
+
+}
+
+#aboutMe {
+	width:500px; 
+	height:370px;
+	background-color:#ffffff;
+	position: relative;
+	top: 25px;
+	left:120px;
+	float:left;
+}
+
+h1 {
+	margin-left: 10px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+    margin-left: 20px;
+}
+
+#aboutMeLine {
+	width: 450px;
+	height: 2px;
+	background-color: #D6DBDF;
+
+}
+
+img {
+
+	float:left; 
+	width: 120px;
+    height: 120px; 
+    display: inline-block;
+    margin:20px;
+    margin-top: 5px;
+
+}
+
+p {
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	margin:10px;
+	color: #7575a3;
+
+}
+
+#connectMe {
+	width:230px;
+	height:160px;
+	background-color: #ffffff;
+	position: relative;
+	top: 25px;
+	left:150px;
+	float:left;
+
+}
+
+h2 {
+
+   position:relative;
+   left: 25px;
+   font-family: 'Georgia', Times, Times New Roman, serif;
+   font-size: 20px;
+   color: #4aaaa5;
+
+}
+
+#connectMeLine {
+	width:180px;
+	background-color: #D6DBDF;
+}
+
+
+#bottomLine {
+	width:1024px;
+	height:8px;
+	background-color:#4aaaa5; 
+}
+
+#footer {
+	width:1024px;
+	height:100px;
+	background-color:#666666; 
+	color: #ffffff;
+	padding-top: 50px;
+	text-align: center;
+
+       }
+
+   
+
+
+
+
