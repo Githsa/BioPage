@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+       <meta charset="UTF-8">
+       <title>About Me Page </title>
+       <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+   <header id="Mainhead">
+   	<div class="container">
+       <a href="index.html" id="logo">Your Name</a>
+       <a href="index.html">About</a>
+       <a href="portfolio.html">Portfolio</a>
+       <a href="contact.html">Contact</a>
+    </div>  
+   </header>
+        
+        <div id="main-container" class="container">
+           <section class="main-content">
+               
+                   <h1>Portfolio</h1>
+                   
+
+                   <div class="work">
+                      <img src="Pics\Star Wars.png" class="auth-image" alt="hangman" >
+
+                      <h3>Hangman</h3>
+                        
+                   </div> 
+                   
+                   <div class="work">
+                      <img src="Pics\Star Wars.png" class="auth-image" alt="RPG Game" >
+
+                      <h3>RPG Game</h3>
+                        
+                   </div> 
+
+                   <div class="work">
+                      <img src="Pics\Star Wars.png" class="auth-image" alt="Trivia Game" >
+
+                      <h3>Trivia Game</h3>
+                        
+                   </div> 
+
+                   <div class="work">
+                      <img src="Pics\Star Wars.png" class="auth-image" alt="Sandros Info Widget" >
+
+                      <h3>Sandro's Info Widget</h3>
+                        
+                   </div> 
+
+                   <div class="work">
+                      <img src="Pics\Star Wars.png" class="auth-image" alt="Rock Paper Scissors" >
+
+                      <h3>Rock Papaer Scissors</h3>
+                        
+                   </div> 
+
+                                     
+
+            </section> 
+
+            <section class="sidebar">             
+                <div id="connectMe">
+                  <h2>Connect with Me</h2>
+                    
+                      <img src="C:\Users\samels\Pictures\Saved Pictures\GitHub.png" style="float:left; width: 20%; margin-right: 1%; margin-bottom: 0.5em; height:30%;">
+                      <img src="C:\Users\samels\Pictures\Saved Pictures\in.png" style="float:left; width: 20%; margin-right: 1%; margin-bottom: 0.5em; height:30%;">
+                      <img src="C:\Users\samels\Pictures\Saved Pictures\stackoverflow.png" style="float:left; width: 20%; margin-right: 1%; margin-bottom: 0.5em; height:30%;">
+                </div>
+            </section>   
+        </div>  
+    <footer>    
+    <div class="container">
+        &copy; Copyright2018 Sandro Altamirano
+    </div>    
+    </footer>       
+
+
+</body>
+</html>
